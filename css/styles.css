@@ -29,7 +29,8 @@ ul {
 }
 
 .nav-link:hover a,
-.nav-link:focus a .nav-link:active a {
+.nav-link:focus a,
+.nav-link:active a {
   color: #404bbf;
 }
 .address:hover a,
