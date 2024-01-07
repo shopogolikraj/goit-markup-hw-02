@@ -22,15 +22,14 @@ ul {
 .studio {
   color: #2e2f42;
 }
-.nav-link a {
+.nav-link {
   font-weight: 500;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-
-.nav-link:hover a,
-.nav-link:focus a,
-.nav-link:active a {
+.nav-link:hover,
+.nav-link:focus,
+.nav-link:active {
   color: #404bbf;
 }
 .address:hover a,
