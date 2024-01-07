@@ -32,7 +32,19 @@ ul {
 .nav-link:active {
   color: #404bbf;
 }
-.address:hover a,
-.address:focus a {
+.adress {
+  font-style: normal;
+}
+.address:hover,
+.address:focus {
+  color: ##404bbf;
+}
+.contacts {
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+}
+.contacts:hover,
+.contacts:focus {
   color: ##404bbf;
 }
