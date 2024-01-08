@@ -54,3 +54,11 @@ ul {
   text-align: center;
   color: #ffffff;
 }
+.solution-button {
+  color: #ffffff;
+  background-color: #4d5ae5;
+  letter-spacing: 0.04em;
+}
+.solution-button:hover {
+  background-color: #404bbf;
+}
