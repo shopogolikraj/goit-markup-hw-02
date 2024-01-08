@@ -44,7 +44,10 @@ ul {
   color: #404bbf;
 }
 
-.title {
+.solution {
+  background-color: #2e2f42;
+}
+.solution-title {
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
