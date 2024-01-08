@@ -104,3 +104,10 @@ ul {
 .company-text {
   letter-spacing: 0.02em;
 }
+
+.footer {
+  background-color: #2e2f42;
+}
+.logos {
+  color: #f4f4fd;
+}
