@@ -83,7 +83,7 @@ ul {
 .our-team {
   background-color: #f4f4fd;
 }
-.team-portfolio {
+.company {
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
@@ -91,16 +91,16 @@ ul {
   color: #2e2f42;
   text-transform: capitalize;
 }
-.team-list {
+.company-list {
   background-color: #ffffff;
 }
-.team-title {
+.company-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.team-text {
+.company-text {
   letter-spacing: 0.02em;
 }
