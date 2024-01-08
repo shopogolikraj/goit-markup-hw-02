@@ -80,7 +80,11 @@ ul {
   letter-spacing: 0.02em;
 }
 
-.title {
+.team {
+  background-color: #f4f4fd;
+}
+
+.team-title {
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
