@@ -35,10 +35,6 @@ ul {
 .address {
   font-style: normal;
 }
-.address:hover,
-.address:focus {
-  color: ##404bbf;
-}
 .contacts {
   letter-spacing: 0.02em;
   color: #434455;
